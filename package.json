@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@glyphs/brands": "^0.1.9",
+    "@glyphs/core": "^0.8.3",
+    "@glyphs/flags": "^0.5.5",
     "tailwindcss": "^2.0.4"
   },
   "devDependencies": {},
