@@ -3,7 +3,7 @@ Welcome to my portfolio, I'm using Tailwind CSS in order to develop my portfolio
 
 ## Tech using:
 - Html 
-- Tailwind
+- Tailwind (CSS)
 - JavaScript
 
 ## Link:
